@@ -14,3 +14,8 @@ Roughly every hour(?):
 - Inserts any new, unseen comments into a database, and updates the comment scores of all
   comments currently in that database.
 - Removes any posts older than one month(?) from the database.
+
+
+## TODO:
+
+- Scrape the list of admins and add them all as friends.

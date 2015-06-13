@@ -1,0 +1,5 @@
+click==4.0
+dotenv==0.0.5
+lxml==3.4.4
+praw==2.1.21
+requests==2.7.0
